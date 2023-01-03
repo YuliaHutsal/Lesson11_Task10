@@ -19,7 +19,7 @@ export default function Modal({setOpenModal}){
                     <h2>Are you sure you want to continue?</h2>
                 </div>
                 <div className="body">
-                    <p>The next page looks amazing!</p>
+                    <p>This page looks amazing!</p>
 
                 </div>
                 <div className="footer">
